@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.t-container {
+  width: 300px;
+}
+
+.item li {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.item li p {
+  margin-bottom: 0;
+}
+
+.todo-input {
+  width: 100%;
+}
