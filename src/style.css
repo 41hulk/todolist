@@ -21,3 +21,19 @@ body {
 .todo-input {
   width: 100%;
 }
+
+.check {
+  text-decoration: line-through;
+  color: #b8b8b8;
+}
+
+.clear {
+  display: flex;
+  justify-content: center;
+}
+
+.clear a {
+  color: #575757;
+  font-weight: 600;
+  text-decoration: none;
+}
