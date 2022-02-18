@@ -26,6 +26,7 @@ body {
   text-decoration: line-through;
   color: #b8b8b8;
 }
+
 .clear {
   display: flex;
   justify-content: center;
