@@ -54,7 +54,7 @@ const deleteTask = () => {
   deleteIcon.addEventListener('click', (e) => {
     const { target } = e;
     if (target) {
-      todo = todo.filter((item) => item.index !== parseInt(target.parentNode.id));
+      todo = todo.filter((item) => item.index !== parseInt(target.parentNode.id, 10));
       clearItem();
       displayList();
       Completed.updateLocalStorage(todo);
