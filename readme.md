@@ -4,10 +4,12 @@
 
 > Made by Ntare Guy
 
+[Watch Live](https://41hulk.github.io/todolist/)
+
 ## Getting Started
 
 - Clone this repository to your local machine]
-- Run `npm install` to install all dependecies 
+- Run `npm install` to install all dependecies
 - Run final.html in your browser
 
 ## Built With
@@ -38,4 +40,3 @@ Give a ⭐️ if you like this project!
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## 📝 License
-
